@@ -1,0 +1,2 @@
+# HibernateOneToOneByDir
+OneToOneByDir
